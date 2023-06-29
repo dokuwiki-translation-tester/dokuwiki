@@ -3,6 +3,7 @@
 /**
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
  *
+ * @author Test <test@test.nl>
  * @author jan lapere <jan@lapere.nl>
  * @author Mark Prins <mprins@users.sf.net>
  * @author PBU <pbu@xs4all.nl>
