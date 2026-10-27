@@ -2,6 +2,27 @@
 # but were removed later. An up to date DokuWiki should not have any of
 # the files installed
 
+# removed on 2026-10-27
+_cs/DokuWiki/Sniffs/Functions/OpeningFunctionBraceSniff.php
+_cs/DokuWiki/Sniffs/NamingConventions/ConstructorNameSniff.php
+_cs/DokuWiki/Sniffs/PHP/DeprecatedFunctionsSniff.php
+_cs/DokuWiki/Sniffs/PHP/DiscouragedFunctionsSniff.php
+_cs/DokuWiki/Sniffs/WhiteSpace/ScopeIndentSniff.php
+_cs/DokuWiki/ruleset.xml
+_cs/README
+inc/FeedParser.php
+vendor/easybook/geshi/README.md
+vendor/easybook/geshi/geshi/asymptote.php
+vendor/easybook/geshi/geshi/autoit.php
+vendor/easybook/geshi/geshi/batch.php
+vendor/easybook/geshi/geshi/cpp-qt.php
+vendor/easybook/geshi/geshi/css.php
+vendor/easybook/geshi/geshi/gml.php
+vendor/easybook/geshi/geshi/sass.php
+vendor/easybook/geshi/geshi/tsql.php
+vendor/easybook/geshi/geshi/xojo.php
+vendor/phpseclib/phpseclib/phpseclib/Crypt/Base.php
+
 # removed on 2026-09-29
 lib/tpl/dokuwiki/images/dokuwiki.svg
 
